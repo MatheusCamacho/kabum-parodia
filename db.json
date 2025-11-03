@@ -1,0 +1,56 @@
+{
+  "itens": [
+    {
+      "id": 1,
+      "nome": "Placa de V\u00eddeo RTX 4070 Ti - Par\u00f3dia Edition",
+      "marca": "Kabumish",
+      "preco": 5999.9,
+      "foto": "https://via.placeholder.com/400x250.png?text=RTX+4070+Ti",
+      "data": "2025-11-01",
+      "descricao": "Placa fict\u00edcia para fins educativos.",
+      "avaliacoes": [
+        5,
+        4,
+        5
+      ],
+      "comentarios": [
+        "Perfeita para edi\u00e7\u00e3o!",
+        "Bom custo-benef\u00edcio"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Monitor Gamer 27'' 240Hz",
+      "marca": "Kabumish",
+      "preco": 2499.0,
+      "foto": "https://via.placeholder.com/400x250.png?text=Monitor+27",
+      "data": "2025-10-15",
+      "descricao": "Monitor com alta taxa de atualiza\u00e7\u00e3o.",
+      "avaliacoes": [
+        4,
+        4,
+        3
+      ],
+      "comentarios": [
+        "Muito fluido.",
+        "\u00d3tima resposta"
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "SSD NVMe 1TB",
+      "marca": "Kabumish",
+      "preco": 399.9,
+      "foto": "https://via.placeholder.com/400x250.png?text=SSD+1TB",
+      "data": "2025-09-10",
+      "descricao": "Armazenamento r\u00e1pido.",
+      "avaliacoes": [
+        5,
+        5
+      ],
+      "comentarios": [
+        "Instala\u00e7\u00e3o simples."
+      ]
+    }
+  ]
+}
